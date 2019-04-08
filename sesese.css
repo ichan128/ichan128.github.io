@@ -12,6 +12,10 @@ body {
     padding: 32px;
 }
 
+h1 {
+    font-weight:lighter;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
